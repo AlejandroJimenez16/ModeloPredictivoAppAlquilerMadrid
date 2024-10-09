@@ -75,10 +75,10 @@ Además, necesitarás un servidor para cargar la interfaz web y el modelo entren
 
 Si ingresas los siguientes datos en el formulario web:
 
-- Zona: Carabanchel
 - Metros cuadrados: 80
 - Habitaciones: 3
 - Planta: 4
+- Zona: Carabanchel
 - Ascensor: Sí
 - Exterior: Sí
 - Estado: Rehabilitado
@@ -94,7 +94,8 @@ El modelo generará una gráfica durante el entrenamiento que muestra cómo dism
 
 En la interfaz web, la predicción del precio aparecerá en la sección de resultados después de ingresar los datos de la vivienda.
 
-
+![image](https://github.com/user-attachments/assets/ce7ffe8b-e6ac-4122-9cfa-6557c3bb0d4d)
+![image](https://github.com/user-attachments/assets/0399dc37-a5f5-4407-b241-8cb34f13b986)
 
 ## Guardar el modelo
 
