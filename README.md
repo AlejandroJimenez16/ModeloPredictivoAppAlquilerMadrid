@@ -84,7 +84,7 @@ Si ingresas los siguientes datos en el formulario web:
 - Estado: Rehabilitado
 - Céntrico: No
 
-El modelo te devolverá una predicción de precio, por ejemplo: `Precio: 1081€/mes'.
+El modelo te devolverá una predicción de precio, por ejemplo: `Precio: 1081€/mes`.
 
 ## Resultados
 
