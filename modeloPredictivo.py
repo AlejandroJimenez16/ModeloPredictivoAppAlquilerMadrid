@@ -81,5 +81,5 @@ plt.ylabel('Perdida')
 plt.plot(historial.history['loss'])
 plt.show()
 
-modelo.save('appAlquilerCasas.h5')
+#modelo.save('appAlquilerCasas.h5')
 
